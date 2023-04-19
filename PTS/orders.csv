@@ -1,0 +1,301 @@
+user_id,product_id,order_time,address,state,city,pincode
+6,"[21, 12, 4, 24]",2023-03-08 13:55:33,"Flat 384, Vista Ocean, Main Street",Meghalaya,Tura,794101
+27,"[2, 12, 25, 14]",2023-03-20 23:39:24,"Flat 247, Park Serenity, First Street",Uttar Pradesh,Lucknow,226001
+12,[12],2023-03-24 11:02:32,"Flat 204, Pinnacle Vista, Twenty-Sixth Street",Sikkim,Gangtok,737101
+48,[9],2023-03-20 07:44:00,"Flat 231, Palace Park, First Street",Jharkhand,Jamshedpur,831001
+34,"[29, 23, 12, 1, 15, 3]",2023-03-23 09:40:55,"Flat 455, Crest Serenity, Twenty-Ninth Street",Punjab,Ludhiana,141001
+93,"[7, 4]",2023-03-01 05:53:11,"Flat 337, Sapphire Ruby, Twenty-First Street",West Bengal,Kolkata,700001
+35,"[23, 13, 16, 26, 22, 4]",2023-03-18 04:15:01,"Flat 291, Crest Hill, Twenty-Fifth Street",Assam,Dibrugarh,786001
+103,"[21, 20, 25]",2023-03-20 21:20:06,"Flat 357, Terrace Grove, Sixteenth Street",Gujarat,Vadodara,390001
+77,"[26, 28, 1, 2]",2023-03-05 09:53:07,"Flat 121, Moon Ruby, Main Street",Meghalaya,Jowai,793150
+38,"[21, 23, 30, 28, 26]",2023-03-05 11:00:26,"Flat 352, Crystal Sky, Twenty-Third Street",Sikkim,Mangan,737116
+76,"[16, 4, 7]",2023-03-04 03:19:30,"Flat 206, Crystal Horizon, Twenty-Fifth Street",Manipur,Bishnupur,795126
+52,[16],2023-03-05 16:11:30,"Flat 275, Mansion Red, Main Street",Maharashtra,Mumbai,400001
+63,"[12, 9, 30, 22]",2023-03-27 14:56:20,"Flat 395, Terrace Peak, Twelfth Street",Meghalaya,Jowai,793150
+40,"[22, 5]",2023-03-21 01:45:17,"Flat 350, Lake Oasis, Twenty-Ninth Street",Rajasthan,Jodhpur,342001
+28,"[29, 15]",2023-03-13 00:13:11,"Flat 430, Sapphire Star, Seventeenth Street",Madhya Pradesh,Bhopal,462001
+63,"[12, 9, 13, 26]",2023-03-24 22:18:26,"Flat 227, Crystal Green, Twenty-Sixth Street",Nagaland,Dimapur,797112
+73,"[26, 28, 24, 30]",2023-03-08 19:58:21,"Flat 108, Summit Vista, Eighth Street",Karnataka,Bengaluru,560001
+44,"[21, 19]",2023-03-12 15:40:33,"Flat 414, Platinum Platinum, Eleventh Street",Uttar Pradesh,Agra,282001
+94,[8],2023-03-29 19:59:10,"Flat 277, Mansion Red, Third Street",Himachal Pradesh,Mandi,175001
+67,"[19, 17, 30]",2023-03-30 02:44:09,"Flat 432, Red River, Fifteenth Street",West Bengal,Howrah,711101
+10,"[13, 20, 10, 24, 15, 7]",2023-03-08 11:35:42,"Flat 113, Meadow Green, Fourteenth Street",Madhya Pradesh,Indore,452001
+11,"[9, 19, 1, 24, 12]",2023-03-13 09:40:24,"Flat 115, Peak Green, Fifteenth Street",Maharashtra,Pune,411001
+78,"[15, 24]",2023-03-16 13:46:35,"Flat 409, Pearl Silver, Twenty-Eighth Street",Kerala,Kozhikode,673001
+5,"[17, 27, 28, 20, 13, 6]",2023-03-29 22:26:58,"Flat 320, Infinity Peak, Twentieth Street",Goa,Margao,403601
+83,"[20, 7, 28]",2023-03-20 09:56:21,"Flat 161, Summit Tower, Twenty-Fourth Street",Assam,Dibrugarh,786001
+80,"[7, 4, 6, 23, 12, 19]",2023-03-24 21:51:02,"Flat 336, Vista Meadow, Twenty-Seventh Street",Chhattisgarh,Raipur,492001
+25,[2],2023-03-24 00:46:46,"Flat 413, Topaz Horizon, Seventeenth Street",Assam,Silchar,788001
+61,"[5, 13, 14]",2023-03-15 23:30:05,"Flat 190, Emerald Silver, Twenty-Second Street",Bihar,Patna,800001
+25,"[10, 19, 6, 3]",2023-03-24 06:46:54,"Flat 223, River Moon, Fifteenth Street",Himachal Pradesh,Shimla,171001
+38,"[13, 16, 9, 20, 27, 10]",2023-03-26 02:06:46,"Flat 272, Serenity Crystal, Twenty-Third Street",Arunachal Pradesh,Itanagar,791111
+90,"[21, 28, 9, 1, 4]",2023-03-14 02:14:25,"Flat 168, Peak Sapphire, Thirtieth Street",Tamil Nadu,Chennai,600001
+51,"[20, 18]",2023-03-23 13:59:36,"Flat 108, Summit Peak, Sixteenth Street",Goa,Mapusa,403507
+80,"[22, 29, 18, 4]",2023-03-09 22:19:56,"Flat 446, Red Tower, Twentieth Street",Manipur,Bishnupur,795126
+44,"[30, 29, 21, 3, 12]",2023-03-10 15:42:49,"Flat 473, Mansion Red, Twenty-Sixth Street",Jharkhand,Jamshedpur,831001
+45,"[11, 28]",2023-03-27 09:31:41,"Flat 279, Oasis Garden, Thirtieth Street",Jharkhand,Jamshedpur,831001
+73,[5],2023-03-15 02:51:11,"Flat 233, Oasis Garden, Twenty-Eighth Street",Maharashtra,Mumbai,400001
+87,"[28, 15, 19, 2, 25, 29]",2023-03-04 19:57:01,"Flat 475, Plaza Emerald, Sixteenth Street",Mizoram,Champhai,796321
+75,"[18, 9]",2023-03-17 21:35:01,"Flat 168, Meadow Garden, Thirteenth Street",Goa,Mapusa,403507
+71,"[25, 19, 5]",2023-03-12 18:30:51,"Flat 452, Tower Pinnacle, First Street",Sikkim,Gangtok,737101
+52,[18],2023-03-23 07:47:07,"Flat 366, Diamond Eternity, Eighteenth Street",Nagaland,Mokokchung,798601
+87,"[16, 29, 30, 20, 28]",2023-03-14 16:02:25,"Flat 436, Oasis Green, Twentieth Street",Andhra Pradesh,Guntur,522001
+13,"[17, 25, 28, 21, 13]",2023-03-18 19:48:07,"Flat 348, Sapphire Diamond, Sixteenth Street",Goa,Mapusa,403507
+62,[19],2023-03-03 16:51:33,"Flat 408, Coral Palace, Seventeenth Street",Goa,Mapusa,403507
+78,"[3, 8, 10, 30, 2, 22]",2023-03-30 03:03:17,"Flat 129, River Garden, Fifth Street",Assam,Dibrugarh,786001
+27,"[16, 25, 21]",2023-03-14 12:35:55,"Flat 365, Moon Crystal, Ninth Street",Tamil Nadu,Coimbatore,641001
+92,"[23, 3, 20, 9, 22]",2023-03-22 14:23:24,"Flat 139, Peak Valley, Twenty-Third Street",Tamil Nadu,Madurai,625001
+31,"[27, 25, 17, 14]",2023-03-03 02:55:53,"Flat 356, Moon Blue, Fourteenth Street",Kerala,Thiruvananthapuram,695001
+36,"[27, 1, 2, 22, 23, 18]",2023-03-14 21:21:40,"Flat 439, Summit Vista, Twenty-First Street",Goa,Mapusa,403507
+26,"[20, 12, 3, 14, 21, 9]",2023-03-13 11:15:54,"Flat 309, Plaza Emerald, Sixteenth Street",Haryana,Gurgaon,122001
+11,"[3, 27, 1, 11, 14]",2023-03-07 04:04:38,"Flat 356, Tower Star, Thirteenth Street",Mizoram,Champhai,796321
+101,"[14, 12, 5, 22]",2023-03-18 14:48:18,"Flat 140, Blue Terrace, Nineteenth Street",Madhya Pradesh,Gwalior,474001
+9,"[16, 27, 20, 9, 18]",2023-03-01 14:26:52,"Flat 124, Serenity Garden, Twentieth Street",Nagaland,Kohima,797001
+50,"[1, 22]",2023-03-23 11:20:23,"Flat 118, Tower River, Eleventh Street",Tamil Nadu,Madurai,625001
+7,"[8, 12, 24, 2]",2023-03-02 15:43:27,"Flat 295, River Sapphire, Fifth Street",Maharashtra,Pune,411001
+24,"[20, 26, 12, 14, 11, 30]",2023-03-20 08:00:23,"Flat 495, Harmony Ocean, Fifteenth Street",Haryana,Faridabad,121001
+67,"[27, 4]",2023-03-06 18:28:20,"Flat 490, River Blue, Sixth Street",Tripura,Agartala,799001
+98,"[26, 2, 13]",2023-03-25 21:31:50,"Flat 465, Garden Lake, Sixteenth Street",Tamil Nadu,Madurai,625001
+26,"[4, 2, 20, 25]",2023-03-09 00:57:57,"Flat 308, Palace Meadow, Fourth Street",Karnataka,Mangalore,575001
+63,"[17, 29, 27, 19]",2023-03-15 00:17:43,"Flat 441, Harmony Peak, Twenty-Second Street",Andhra Pradesh,Visakhapatnam,530001
+91,"[3, 12]",2023-03-30 00:31:31,"Flat 144, Silver Meadow, Twenty-Fifth Street",Haryana,Panipat,132103
+14,"[24, 20, 29, 13, 1]",2023-03-25 19:05:55,"Flat 480, Crystal Horizon, Twenty-Eighth Street",Kerala,Kozhikode,673001
+30,"[13, 27, 12]",2023-03-25 06:49:36,"Flat 332, Oasis Crest, Twelfth Street",Odisha,Rourkela,769001
+93,[18],2023-03-12 08:01:13,"Flat 291, Pearl Topaz, Twenty-Second Street",Uttarakhand,Haridwar,249401
+44,"[25, 26]",2023-03-22 10:48:16,"Flat 146, Eternity Silver, Twenty-Sixth Street",Arunachal Pradesh,Pasighat,791102
+82,"[1, 28, 20, 3]",2023-03-08 10:59:00,"Flat 252, Coral Peak, Nineteenth Street",Arunachal Pradesh,Naharlagun,791110
+60,[12],2023-03-07 22:03:02,"Flat 217, Garden Serenity, Twenty-Fourth Street",Gujarat,Ahmedabad,380001
+106,"[9, 16, 7, 21, 24, 8]",2023-03-22 02:51:14,"Flat 403, Topaz Hill, Twenty-Third Street",Chhattisgarh,Bhilai,490001
+39,"[14, 21]",2023-03-09 21:06:59,"Flat 479, Pinnacle Hill, Eighth Street",Jharkhand,Dhanbad,826001
+38,"[13, 21, 14]",2023-03-09 12:48:01,"Flat 210, Red Tower, Twenty-Eighth Street",Assam,Dibrugarh,786001
+49,"[4, 19, 17, 30, 3, 8]",2023-03-11 11:12:41,"Flat 346, Lake River, Ninth Street",Uttar Pradesh,Kanpur,208001
+90,"[18, 8]",2023-03-05 02:12:45,"Flat 138, Tower Valley, Twenty-Third Street",Rajasthan,Jodhpur,342001
+78,[8],2023-03-07 12:32:13,"Flat 386, Peak Sapphire, Twenty-First Street",Tripura,Dharmanagar,799250
+39,[14],2023-03-13 10:37:09,"Flat 178, Star Vista, Thirteenth Street",Arunachal Pradesh,Pasighat,791102
+10,"[30, 15, 9, 19, 5]",2023-03-04 11:19:59,"Flat 372, Crystal Horizon, Twenty-Second Street",Andhra Pradesh,Vijayawada,520001
+7,"[25, 9, 3, 30, 18]",2023-03-14 03:43:51,"Flat 164, Lake Harmony, Main Street",Bihar,Gaya,823001
+78,"[23, 21, 13]",2023-03-20 09:56:20,"Flat 268, Garden Plaza, Fifteenth Street",Bihar,Gaya,823001
+45,"[23, 4, 9, 21, 3]",2023-03-28 12:23:55,"Flat 148, Emerald Silver, Twelfth Street",Uttar Pradesh,Kanpur,208001
+10,"[7, 14, 26, 27, 22]",2023-03-05 01:47:12,"Flat 452, Terrace Moon, Eighteenth Street",Uttarakhand,Haridwar,249401
+87,"[5, 29, 10]",2023-03-28 17:50:54,"Flat 303, Tower River, Fourteenth Street",Sikkim,Mangan,737116
+42,[30],2023-03-26 07:25:28,"Flat 397, Plaza Red, Tenth Street",Rajasthan,Jaipur,302001
+20,[15],2023-03-16 11:55:50,"Flat 490, Lake Crest, Twenty-Seventh Street",Andhra Pradesh,Vijayawada,520001
+65,"[2, 3, 24]",2023-03-28 17:05:56,"Flat 157, Plaza Peak, Second Street",Karnataka,Mangalore,575001
+70,"[11, 9]",2023-03-04 14:25:39,"Flat 304, Summit Crest, Fourth Street",Telangana,Warangal,506002
+23,"[20, 29, 7, 13, 25]",2023-03-15 08:59:30,"Flat 445, Emerald Vista, Second Street",Punjab,Jalandhar,144001
+24,"[28, 2, 22, 14]",2023-03-30 03:19:50,"Flat 255, Palace Crystal, Second Street",Uttar Pradesh,Agra,282001
+85,"[27, 1, 5, 26, 14]",2023-03-06 22:02:39,"Flat 184, Horizon Crystal, Second Street",Maharashtra,Mumbai,400001
+75,"[16, 28, 26, 4, 17, 7]",2023-03-19 14:56:12,"Flat 360, Green Platinum, Fourteenth Street",Rajasthan,Udaipur,313001
+91,"[24, 13, 2, 8]",2023-03-04 04:24:42,"Flat 273, Gold River, Nineteenth Street",Nagaland,Kohima,797001
+96,"[15, 6, 12, 5]",2023-03-26 11:32:06,"Flat 106, Palace Sapphire, Eleventh Street",Tamil Nadu,Coimbatore,641001
+58,"[12, 29, 11, 27, 19]",2023-03-18 09:25:45,"Flat 245, Valley Grove, Fourteenth Street",Tamil Nadu,Madurai,625001
+56,"[10, 22]",2023-03-19 23:43:17,"Flat 134, Summit Ruby, Seventeenth Street",Mizoram,Lunglei,796701
+47,"[3, 26, 27, 13, 2]",2023-03-24 15:27:53,"Flat 153, Sun Crest, Sixteenth Street",Madhya Pradesh,Indore,452001
+72,"[3, 23, 7]",2023-03-13 06:24:42,"Flat 252, Diamond Horizon, Twenty-Fifth Street",Himachal Pradesh,Dharamshala,176215
+96,"[3, 26]",2023-03-19 00:47:30,"Flat 371, Park Star, First Street",Haryana,Panipat,132103
+33,[16],2023-03-27 11:46:43,"Flat 223, Pearl Terrace, First Street",Mizoram,Champhai,796321
+41,"[20, 14]",2023-03-03 11:04:10,"Flat 357, Grove Castle, Fourth Street",Maharashtra,Nagpur,440001
+33,"[4, 27, 3, 10, 25]",2023-03-07 05:13:18,"Flat 170, Green Green, Twenty-Seventh Street",Uttar Pradesh,Kanpur,208001
+96,"[16, 4]",2023-03-14 22:02:05,"Flat 344, Serenity Lake, Eighteenth Street",Maharashtra,Nagpur,440001
+5,"[12, 25]",2023-03-16 03:28:53,"Flat 188, Grove Star, Seventeenth Street",Uttarakhand,Haridwar,249401
+55,"[18, 1, 8, 3, 9, 23]",2023-03-25 23:49:07,"Flat 418, Lake Harmony, Twenty-Fourth Street",Haryana,Gurgaon,122001
+21,[1],2023-03-05 03:46:54,"Flat 347, Sapphire Star, Tenth Street",Himachal Pradesh,Mandi,175001
+38,"[7, 20, 14]",2023-03-17 08:22:37,"Flat 251, Pinnacle Serenity, Fifth Street",Gujarat,Surat,395001
+41,"[29, 13, 2, 27, 25]",2023-03-26 05:23:36,"Flat 408, Crystal Horizon, Sixteenth Street",Arunachal Pradesh,Pasighat,791102
+62,"[6, 28, 30, 3]",2023-03-13 14:02:30,"Flat 123, Red Blue, Fourteenth Street",Mizoram,Champhai,796321
+17,"[3, 2, 4, 8, 9]",2023-03-18 09:19:48,"Flat 127, Sky Terrace, Third Street",Tripura,Dharmanagar,799250
+44,"[30, 22, 29, 1]",2023-03-27 14:33:24,"Flat 305, Plaza Hill, Thirteenth Street",West Bengal,Asansol,713301
+78,"[19, 18]",2023-03-06 09:28:34,"Flat 439, Red Silver, Main Street",Rajasthan,Jaipur,302001
+59,[11],2023-03-30 03:18:31,"Flat 177, Mansion Plaza, Eleventh Street",Chhattisgarh,Durg,491001
+18,"[17, 23, 13, 8, 20]",2023-03-23 17:41:20,"Flat 108, Pinnacle Serenity, Twelfth Street",Tamil Nadu,Madurai,625001
+16,"[28, 27, 13, 18, 21, 17]",2023-03-18 22:08:45,"Flat 137, Garden Pearl, Ninth Street",Sikkim,Namchi,737126
+51,"[17, 24, 7, 26, 3, 2]",2023-03-04 23:19:50,"Flat 477, Valley Grove, Thirteenth Street",Punjab,Jalandhar,144001
+97,"[28, 18, 29, 8]",2023-03-21 14:11:26,"Flat 132, Park Tower, Seventeenth Street",Karnataka,Bengaluru,560001
+18,[24],2023-03-02 03:20:59,"Flat 384, Harmony Pinnacle, Twenty-Fourth Street",Bihar,Gaya,823001
+107,"[10, 8, 25, 18]",2023-03-17 13:48:18,"Flat 115, Pinnacle Terrace, Second Street",Sikkim,Gangtok,737101
+29,"[28, 10, 2]",2023-03-27 11:45:46,"Flat 155, Lake River, Nineteenth Street",Bihar,Bhagalpur,812001
+26,[6],2023-03-26 08:28:09,"Flat 288, Meadow Ocean, Twenty-Seventh Street",Tamil Nadu,Madurai,625001
+56,[13],2023-03-08 01:32:28,"Flat 446, Lake Red, Sixth Street",Himachal Pradesh,Shimla,171001
+57,"[13, 4, 8, 25, 9, 5]",2023-03-26 07:16:20,"Flat 355, Park Coral, Seventh Street",Jharkhand,Jamshedpur,831001
+20,[15],2023-03-25 22:13:18,"Flat 230, Topaz Horizon, Third Street",Kerala,Thiruvananthapuram,695001
+58,"[12, 5, 10, 13, 30, 3]",2023-03-28 09:25:13,"Flat 322, Grove Eternity, Thirtieth Street",West Bengal,Howrah,711101
+35,"[19, 7, 17, 1]",2023-03-27 06:31:10,"Flat 282, Eternity Topaz, Thirtieth Street",Mizoram,Champhai,796321
+21,"[8, 14, 4, 1]",2023-03-15 16:09:38,"Flat 481, Ocean Emerald, Main Street",Arunachal Pradesh,Pasighat,791102
+80,"[29, 24]",2023-03-24 02:59:40,"Flat 223, Topaz Sapphire, Twelfth Street",Uttar Pradesh,Lucknow,226001
+65,"[2, 29, 30, 24, 5, 14]",2023-03-26 18:47:45,"Flat 288, Peak Ruby, Twenty-First Street",Tamil Nadu,Chennai,600001
+69,[17],2023-03-14 10:14:43,"Flat 462, Grove Topaz, Tenth Street",Kerala,Kochi,682001
+106,"[17, 8, 30, 2, 24]",2023-03-20 12:18:14,"Flat 157, Blue Oasis, Twenty-Sixth Street",Maharashtra,Pune,411001
+54,"[20, 27, 5]",2023-03-15 11:59:31,"Flat 256, Pinnacle Hill, Third Street",Gujarat,Surat,395001
+103,"[29, 24]",2023-03-29 06:18:18,"Flat 483, Infinity Horizon, Thirtieth Street",Odisha,Bhubaneswar,751001
+22,"[16, 11]",2023-03-26 02:56:16,"Flat 267, Pinnacle River, Third Street",Chhattisgarh,Durg,491001
+44,"[11, 12]",2023-03-16 10:35:26,"Flat 136, Tower Red, Thirteenth Street",Assam,Guwahati,781001
+99,"[4, 6, 24, 17, 27]",2023-03-23 12:34:39,"Flat 374, Peak Sapphire, Ninth Street",Uttar Pradesh,Kanpur,208001
+3,"[17, 6, 15, 11, 3]",2023-03-17 03:09:58,"Flat 104, Sky Emerald, Twentieth Street",Arunachal Pradesh,Pasighat,791102
+2,"[16, 26, 3, 20, 1]",2023-03-17 14:30:56,"Flat 433, Meadow Garden, Twenty-Fifth Street",Himachal Pradesh,Mandi,175001
+33,"[3, 19, 11, 12, 6, 2]",2023-03-06 21:14:49,"Flat 273, Gold Topaz, Twenty-Ninth Street",Andhra Pradesh,Vijayawada,520001
+32,"[1, 5]",2023-03-13 10:18:48,"Flat 282, Harmony Summit, Twenty-Eighth Street",Maharashtra,Pune,411001
+69,"[29, 16, 12]",2023-03-09 10:07:14,"Flat 297, Palace Infinity, Fifth Street",Meghalaya,Jowai,793150
+63,"[12, 8, 26]",2023-03-29 06:52:34,"Flat 150, Valley Sun, Thirtieth Street",Gujarat,Vadodara,390001
+44,"[11, 27]",2023-03-12 04:20:15,"Flat 341, Meadow Castle, Tenth Street",Kerala,Thiruvananthapuram,695001
+90,"[1, 25, 16, 27]",2023-03-25 18:27:40,"Flat 219, Summit Plaza, Seventh Street",Maharashtra,Mumbai,400001
+14,"[27, 4, 2, 13]",2023-03-06 19:01:19,"Flat 489, Pearl Coral, Twenty-Sixth Street",Gujarat,Vadodara,390001
+40,"[2, 3]",2023-03-12 20:50:31,"Flat 271, Palace Crest, Nineteenth Street",Tamil Nadu,Madurai,625001
+60,"[15, 28, 7, 6, 18, 21]",2023-03-27 19:03:24,"Flat 231, Peak Plaza, Sixth Street",Tamil Nadu,Madurai,625001
+2,"[3, 14, 30, 18, 2]",2023-03-02 17:27:29,"Flat 303, Terrace Valley, Eighth Street",Sikkim,Mangan,737116
+44,"[13, 15, 1]",2023-03-19 17:11:36,"Flat 276, Diamond Crystal, Fifth Street",Manipur,Bishnupur,795126
+39,"[24, 30, 26, 3, 1, 6]",2023-03-06 22:05:45,"Flat 366, Valley Diamond, Sixth Street",Uttarakhand,Nainital,263001
+38,[22],2023-03-17 03:18:06,"Flat 307, Harmony Castle, Nineteenth Street",Chhattisgarh,Raipur,492001
+25,[27],2023-03-07 20:29:26,"Flat 442, Hill Platinum, Twenty-Eighth Street",Haryana,Faridabad,121001
+100,"[13, 16, 28, 2, 20, 24]",2023-03-03 19:15:51,"Flat 372, Tower Pinnacle, Ninth Street",Odisha,Bhubaneswar,751001
+14,"[19, 27, 21, 26, 2, 13]",2023-03-20 09:07:09,"Flat 288, Moon Pearl, Twenty-Fifth Street",Mizoram,Aizawl,796001
+58,"[14, 22, 4, 20, 17]",2023-03-08 18:47:47,"Flat 292, River Castle, Fourteenth Street",Telangana,Warangal,506002
+89,"[16, 26, 30, 27, 17, 18]",2023-03-19 22:42:20,"Flat 144, Castle Red, Main Street",Jharkhand,Jamshedpur,831001
+67,"[21, 9]",2023-03-24 13:03:33,"Flat 388, Sun Peak, Fifteenth Street",Jharkhand,Dhanbad,826001
+50,[17],2023-03-10 14:27:23,"Flat 422, Pinnacle Hill, Thirtieth Street",Maharashtra,Nagpur,440001
+77,"[7, 3, 10, 15]",2023-03-08 18:44:26,"Flat 258, Star Grove, Fifteenth Street",Jharkhand,Ranchi,834001
+82,"[22, 18, 1]",2023-03-20 22:00:54,"Flat 455, Vista Vista, Twelfth Street",Uttarakhand,Dehradun,248001
+64,[24],2023-03-11 19:04:26,"Flat 250, Castle Silver, Twenty-Fifth Street",Tamil Nadu,Coimbatore,641001
+11,"[16, 7, 27, 11, 8]",2023-03-16 08:31:35,"Flat 307, Moon Ocean, Ninth Street",Odisha,Bhubaneswar,751001
+3,"[24, 15, 29, 17]",2023-03-17 09:43:04,"Flat 389, Castle Mansion, Twentieth Street",Bihar,Bhagalpur,812001
+26,"[19, 30, 9, 15, 27, 4]",2023-03-18 03:08:14,"Flat 385, Grove Diamond, Twelfth Street",Jharkhand,Dhanbad,826001
+7,"[24, 2, 22, 9, 26, 5]",2023-03-14 16:53:11,"Flat 258, Pinnacle Hill, Sixteenth Street",Manipur,Bishnupur,795126
+10,[3],2023-03-27 18:37:16,"Flat 347, Mansion Terrace, Ninth Street",Meghalaya,Shillong,793001
+38,"[9, 28, 29, 21]",2023-03-13 20:14:12,"Flat 485, Peak Crest, Fourteenth Street",Telangana,Warangal,506002
+80,"[2, 9, 11, 16, 1, 14]",2023-03-05 08:05:16,"Flat 422, Pearl Hill, Nineteenth Street",Gujarat,Vadodara,390001
+31,"[14, 29, 15, 23, 20]",2023-03-15 20:38:11,"Flat 340, Meadow Infinity, Thirteenth Street",Uttar Pradesh,Lucknow,226001
+101,"[29, 13, 7, 6, 8, 14]",2023-03-09 04:44:09,"Flat 437, Ocean Palace, Twelfth Street",Mizoram,Aizawl,796001
+76,"[11, 2, 6, 16, 15]",2023-03-02 16:02:30,"Flat 129, Peak Sapphire, Second Street",Uttar Pradesh,Lucknow,226001
+71,[21],2023-03-07 23:03:25,"Flat 224, Crystal Green, Twenty-Seventh Street",Tamil Nadu,Coimbatore,641001
+15,"[22, 24, 7]",2023-03-28 16:31:43,"Flat 497, Valley River, Twentieth Street",Arunachal Pradesh,Naharlagun,791110
+82,"[3, 29, 2, 7, 25]",2023-03-11 03:59:57,"Flat 271, Star Crystal, Twenty-Fourth Street",Telangana,Warangal,506002
+48,"[3, 12, 14, 13]",2023-03-06 13:07:33,"Flat 422, Eternity Topaz, Twentieth Street",Bihar,Bhagalpur,812001
+37,"[27, 3, 22, 7, 15, 14]",2023-03-21 08:13:30,"Flat 496, Coral Tower, Main Street",Rajasthan,Udaipur,313001
+103,"[12, 1, 14]",2023-03-30 12:11:56,"Flat 205, Meadow Garden, Twenty-Fourth Street",Madhya Pradesh,Bhopal,462001
+65,"[30, 28, 11]",2023-03-07 12:10:49,"Flat 222, Moon Green, Thirteenth Street",Himachal Pradesh,Dharamshala,176215
+11,"[14, 26, 18]",2023-03-02 14:44:35,"Flat 420, Tower Lake, Eighth Street",Uttar Pradesh,Lucknow,226001
+7,"[20, 4, 10, 6, 21]",2023-03-02 03:12:53,"Flat 117, Grove Tower, Twenty-Third Street",Andhra Pradesh,Visakhapatnam,530001
+34,"[13, 19]",2023-03-11 22:00:14,"Flat 434, Palace Pearl, Twenty-Third Street",Karnataka,Bengaluru,560001
+6,"[10, 22]",2023-03-15 10:00:50,"Flat 278, Crystal Moon, Fifth Street",Rajasthan,Udaipur,313001
+8,"[5, 3, 16, 20, 11, 10]",2023-03-08 21:26:25,"Flat 382, Eternity Park, Twenty-Ninth Street",Rajasthan,Jaipur,302001
+37,"[27, 15, 23, 6, 2]",2023-03-21 14:39:53,"Flat 266, Park Ruby, Eighteenth Street",Mizoram,Champhai,796321
+70,"[1, 9, 4, 8, 28]",2023-03-30 13:49:03,"Flat 406, Horizon Red, Twelfth Street",Gujarat,Ahmedabad,380001
+56,[4],2023-03-22 17:21:32,"Flat 322, Diamond Castle, Twenty-Fifth Street",Kerala,Thiruvananthapuram,695001
+19,"[5, 1, 21]",2023-03-24 20:19:54,"Flat 339, River Serenity, Ninth Street",Uttarakhand,Nainital,263001
+31,"[15, 28, 23, 11]",2023-03-22 21:23:14,"Flat 224, Ocean Palace, Eleventh Street",Chhattisgarh,Raipur,492001
+11,"[21, 19, 15, 11, 29, 17]",2023-03-20 12:34:23,"Flat 279, Pinnacle Vista, Eighteenth Street",Andhra Pradesh,Vijayawada,520001
+11,[18],2023-03-23 03:43:19,"Flat 262, Oasis Star, Twelfth Street",Sikkim,Namchi,737126
+81,"[23, 1]",2023-03-05 13:28:44,"Flat 485, Plaza Crystal, Nineteenth Street",Karnataka,Hubli,580020
+99,"[11, 22]",2023-03-06 07:18:44,"Flat 113, Peak Sapphire, Twenty-Fifth Street",Sikkim,Gangtok,737101
+47,"[13, 17, 15, 20]",2023-03-24 12:14:12,"Flat 158, Peak Grove, Seventeenth Street",Andhra Pradesh,Vijayawada,520001
+91,"[10, 26, 1, 14, 7]",2023-03-28 02:05:49,"Flat 115, Ocean Hill, Sixteenth Street",Maharashtra,Nagpur,440001
+45,[29],2023-03-07 08:10:57,"Flat 231, Green Harmony, Eleventh Street",Uttarakhand,Haridwar,249401
+98,"[23, 26, 19]",2023-03-11 21:40:54,"Flat 445, Meadow Garden, Third Street",Gujarat,Ahmedabad,380001
+19,"[19, 22, 11, 15]",2023-03-11 03:24:22,"Flat 290, Emerald Platinum, Second Street",Nagaland,Mokokchung,798601
+4,[2],2023-03-03 08:35:27,"Flat 203, Sapphire Tower, Thirtieth Street",Uttar Pradesh,Kanpur,208001
+75,"[30, 23]",2023-03-03 23:17:24,"Flat 120, Eternity Coral, First Street",Tripura,Agartala,799001
+74,[20],2023-03-27 01:42:09,"Flat 123, Diamond Silver, Sixteenth Street",Jharkhand,Jamshedpur,831001
+21,"[25, 8]",2023-03-16 16:12:54,"Flat 478, Topaz Park, Second Street",Arunachal Pradesh,Naharlagun,791110
+76,"[24, 29]",2023-03-15 07:50:36,"Flat 360, Summit Plaza, Eighteenth Street",Tripura,Agartala,799001
+31,[7],2023-03-25 04:25:45,"Flat 302, Valley Grove, Twenty-Seventh Street",Himachal Pradesh,Dharamshala,176215
+79,"[22, 3, 27]",2023-03-11 15:44:47,"Flat 424, Coral Blue, Thirtieth Street",West Bengal,Asansol,713301
+61,"[26, 28, 13]",2023-03-21 19:24:26,"Flat 355, Mansion Hill, Twenty-Second Street",Mizoram,Aizawl,796001
+81,"[29, 12, 7, 11]",2023-03-15 07:52:13,"Flat 176, Vista Vista, Twenty-Second Street",Karnataka,Hubli,580020
+72,"[4, 1, 28, 26, 20]",2023-03-06 20:57:02,"Flat 352, Ocean Emerald, Thirtieth Street",Goa,Margao,403601
+100,"[24, 28, 30, 15]",2023-03-26 21:49:00,"Flat 427, Summit Palace, Twenty-Third Street",Andhra Pradesh,Vijayawada,520001
+36,"[11, 3, 4, 27]",2023-03-13 09:29:58,"Flat 214, Sun Pinnacle, Eleventh Street",Rajasthan,Jaipur,302001
+97,"[13, 1]",2023-03-15 06:52:51,"Flat 151, Lake Oasis, Twenty-Eighth Street",Tamil Nadu,Madurai,625001
+98,"[1, 17, 4, 12]",2023-03-09 05:18:18,"Flat 484, Crest Castle, Twenty-Fifth Street",Odisha,Rourkela,769001
+76,"[24, 26, 11, 29, 1]",2023-03-29 08:25:58,"Flat 299, Gold River, Twenty-Ninth Street",Nagaland,Dimapur,797112
+71,"[21, 29, 11, 4, 16]",2023-03-29 13:51:03,"Flat 351, Castle Red, Ninth Street",Uttar Pradesh,Lucknow,226001
+59,"[13, 4, 8, 12]",2023-03-21 03:41:33,"Flat 162, Garden Plaza, First Street",Meghalaya,Jowai,793150
+49,"[8, 29, 2, 9, 20]",2023-03-12 05:25:56,"Flat 435, Crest Sapphire, Seventeenth Street",Madhya Pradesh,Indore,452001
+5,"[4, 29]",2023-03-02 01:42:46,"Flat 357, Green Coral, Nineteenth Street",Odisha,Rourkela,769001
+67,[27],2023-03-09 06:58:00,"Flat 480, Diamond Sun, Fourteenth Street",Tripura,Agartala,799001
+13,"[7, 5, 24, 21, 4]",2023-03-13 21:59:22,"Flat 372, Ruby Horizon, Twenty-Second Street",Gujarat,Surat,395001
+64,"[15, 10, 3]",2023-03-06 16:26:13,"Flat 364, Coral Infinity, Thirteenth Street",Rajasthan,Jodhpur,342001
+56,[26],2023-03-11 14:43:47,"Flat 481, Coral Silver, Twenty-Sixth Street",West Bengal,Howrah,711101
+63,"[29, 18, 17, 23, 7, 10]",2023-03-14 23:03:59,"Flat 317, Lake Plaza, Fifteenth Street",Goa,Margao,403601
+46,"[28, 21, 6, 9]",2023-03-19 02:05:57,"Flat 365, Red Star, Twenty-Ninth Street",Rajasthan,Jodhpur,342001
+96,"[6, 1]",2023-03-11 22:05:32,"Flat 370, Coral Horizon, Fifteenth Street",Himachal Pradesh,Mandi,175001
+42,"[28, 10, 21, 16, 1, 14]",2023-03-28 20:51:19,"Flat 230, Plaza Crystal, Twenty-Fifth Street",Manipur,Imphal,795001
+88,"[10, 7, 19, 25, 8]",2023-03-09 13:15:03,"Flat 478, Eternity Infinity, Eighteenth Street",Uttarakhand,Dehradun,248001
+90,"[9, 5, 8, 4]",2023-03-13 15:48:18,"Flat 315, Green Green, First Street",Himachal Pradesh,Mandi,175001
+32,"[15, 20, 8, 29]",2023-03-27 17:16:34,"Flat 342, Eternity Topaz, First Street",Madhya Pradesh,Bhopal,462001
+97,"[21, 18, 22, 30, 9]",2023-03-13 09:56:28,"Flat 339, Terrace Ruby, Eighth Street",Mizoram,Lunglei,796701
+91,[17],2023-03-26 17:56:31,"Flat 488, Serenity Summit, Ninth Street",West Bengal,Howrah,711101
+32,"[12, 11, 30, 5, 10]",2023-03-08 13:57:21,"Flat 224, Summit Hill, Tenth Street",Tripura,Agartala,799001
+82,"[6, 26, 25, 12]",2023-03-27 01:01:29,"Flat 479, Red Horizon, Third Street",Punjab,Jalandhar,144001
+39,"[28, 17, 14, 22]",2023-03-01 01:45:03,"Flat 446, Summit Blue, Thirtieth Street",Arunachal Pradesh,Pasighat,791102
+70,[2],2023-03-01 07:02:39,"Flat 156, Emerald Topaz, Twenty-First Street",Arunachal Pradesh,Itanagar,791111
+36,"[13, 8, 10]",2023-03-03 17:44:26,"Flat 332, Green Sun, Twenty-Sixth Street",Gujarat,Surat,395001
+18,"[22, 14, 4, 9, 1]",2023-03-08 22:16:06,"Flat 212, Hill Plaza, Fifth Street",Bihar,Gaya,823001
+81,"[11, 24, 13]",2023-03-28 23:55:01,"Flat 368, Pearl Terrace, Fifteenth Street",Sikkim,Gangtok,737101
+75,"[17, 4, 13]",2023-03-03 01:27:32,"Flat 204, Grove Tower, Sixth Street",Tamil Nadu,Madurai,625001
+38,"[3, 18, 10, 13, 19]",2023-03-26 22:13:16,"Flat 179, Valley Meadow, Thirtieth Street",Uttar Pradesh,Lucknow,226001
+33,"[10, 22, 2]",2023-03-01 06:28:10,"Flat 500, Valley Plaza, Sixteenth Street",Assam,Dibrugarh,786001
+39,"[19, 5, 25]",2023-03-09 17:13:11,"Flat 346, Sun Hill, Twenty-Seventh Street",Sikkim,Gangtok,737101
+79,"[1, 7, 29, 15, 4, 28]",2023-03-13 19:11:04,"Flat 102, Sapphire Gold, Third Street",Manipur,Bishnupur,795126
+48,[11],2023-03-09 11:13:05,"Flat 400, Sky Emerald, Twenty-Eighth Street",Gujarat,Ahmedabad,380001
+82,"[24, 30, 10, 27, 1, 16]",2023-03-29 03:31:49,"Flat 356, Palace Infinity, Fourteenth Street",Himachal Pradesh,Mandi,175001
+42,"[24, 28, 22, 8, 6]",2023-03-22 07:09:46,"Flat 489, Sun Pinnacle, Twentieth Street",Sikkim,Mangan,737116
+59,[25],2023-03-29 13:20:59,"Flat 264, Lake Hill, Second Street",Mizoram,Aizawl,796001
+29,"[6, 20, 5]",2023-03-13 23:42:09,"Flat 218, Pinnacle Terrace, Twelfth Street",Meghalaya,Tura,794101
+74,"[17, 10, 29, 12]",2023-03-26 09:02:19,"Flat 350, Terrace Ruby, Fourth Street",Rajasthan,Jodhpur,342001
+89,"[14, 3]",2023-03-23 21:03:37,"Flat 426, Meadow Tower, Seventeenth Street",Tripura,Dharmanagar,799250
+23,[23],2023-03-14 13:32:08,"Flat 301, Moon Park, Thirteenth Street",Meghalaya,Shillong,793001
+91,"[9, 29, 3, 30, 5, 25]",2023-03-14 01:51:51,"Flat 103, Tower Grove, Twenty-Seventh Street",Karnataka,Hubli,580020
+84,[24],2023-03-21 16:39:29,"Flat 188, Red Pinnacle, Seventeenth Street",Punjab,Amritsar,143001
+86,"[13, 15]",2023-03-27 06:30:08,"Flat 217, Blue Pinnacle, Fifth Street",Tripura,Agartala,799001
+45,"[21, 2]",2023-03-29 12:56:33,"Flat 162, River Pearl, Second Street",Nagaland,Kohima,797001
+49,"[16, 14, 29, 27]",2023-03-30 11:52:47,"Flat 416, Crest Pearl, Thirteenth Street",Uttar Pradesh,Agra,282001
+10,[21],2023-03-14 07:47:38,"Flat 252, Lake Sun, Ninth Street",Chhattisgarh,Durg,491001
+101,"[9, 24, 14, 10]",2023-03-20 09:15:40,"Flat 401, Harmony Coral, Second Street",Bihar,Patna,800001
+71,"[18, 27, 25]",2023-03-05 09:15:50,"Flat 146, River Moon, Seventeenth Street",Haryana,Panipat,132103
+3,"[7, 9, 24, 12, 3]",2023-03-03 09:47:12,"Flat 332, Garden Vista, Main Street",Uttarakhand,Haridwar,249401
+99,"[19, 26]",2023-03-02 19:57:22,"Flat 154, Serenity Summit, Nineteenth Street",Tamil Nadu,Chennai,600001
+45,"[8, 9, 20]",2023-03-19 04:37:46,"Flat 335, Oasis Serenity, Twenty-First Street",Punjab,Ludhiana,141001
+105,"[7, 29, 26]",2023-03-24 04:53:18,"Flat 112, Pinnacle Peak, Ninth Street",Meghalaya,Jowai,793150
+58,"[3, 9, 17, 18, 25, 29]",2023-03-30 00:15:04,"Flat 217, Sun Moon, Third Street",Andhra Pradesh,Vijayawada,520001
+11,"[1, 17]",2023-03-30 23:57:42,"Flat 162, Diamond Green, Twenty-Sixth Street",Mizoram,Lunglei,796701
+74,"[28, 11, 29, 19]",2023-03-20 22:40:44,"Flat 120, Valley Castle, Twenty-Sixth Street",Tripura,Udaipur,799105
+23,"[6, 10, 14]",2023-03-27 17:39:18,"Flat 334, Ruby Mansion, Fifth Street",Uttarakhand,Haridwar,249401
+11,"[19, 13]",2023-03-16 17:33:17,"Flat 337, Serenity Serenity, Twentieth Street",Punjab,Ludhiana,141001
+20,"[21, 28, 8, 24, 16, 6]",2023-03-11 01:24:43,"Flat 418, Gold Topaz, Twenty-Fourth Street",Punjab,Amritsar,143001
+13,"[6, 1, 2, 24, 23, 27]",2023-03-30 11:17:46,"Flat 446, Platinum Tower, Fourteenth Street",Tamil Nadu,Coimbatore,641001
+30,[7],2023-03-01 00:25:08,"Flat 222, Emerald Infinity, Twenty-Ninth Street",Karnataka,Hubli,580020
+25,"[30, 4]",2023-03-10 21:32:31,"Flat 360, Pinnacle Platinum, Twenty-Second Street",Nagaland,Kohima,797001
+3,"[25, 30, 18]",2023-03-21 09:39:23,"Flat 121, Garden Crest, Twenty-Sixth Street",Odisha,Cuttack,753001
+13,[17],2023-03-16 09:11:30,"Flat 286, River Eternity, Eighth Street",Arunachal Pradesh,Naharlagun,791110
+10,"[26, 24, 25, 30]",2023-03-04 22:42:00,"Flat 226, Moon Meadow, Twentieth Street",Uttarakhand,Nainital,263001
+53,[19],2023-03-28 13:34:04,"Flat 158, Plaza Pearl, Thirteenth Street",Maharashtra,Pune,411001
+7,"[28, 20, 17]",2023-03-11 02:28:42,"Flat 298, Diamond Oasis, Fifteenth Street",Andhra Pradesh,Visakhapatnam,530001
+37,"[26, 6, 22]",2023-03-02 18:39:52,"Flat 484, Hill Sky, Sixth Street",Himachal Pradesh,Dharamshala,176215
+31,"[25, 7, 6, 28]",2023-03-12 05:10:22,"Flat 256, Ocean Topaz, Twenty-Fourth Street",Maharashtra,Mumbai,400001
+76,[29],2023-03-23 21:53:19,"Flat 393, Coral Horizon, Thirtieth Street",Punjab,Ludhiana,141001
+17,"[25, 13]",2023-03-15 15:05:00,"Flat 300, Garden Summit, Fourteenth Street",Himachal Pradesh,Mandi,175001
+35,"[26, 2, 8]",2023-03-29 21:05:07,"Flat 224, Lake Valley, Fourth Street",Sikkim,Gangtok,737101
+45,[22],2023-03-08 18:45:16,"Flat 240, Gold Grove, Nineteenth Street",Tamil Nadu,Coimbatore,641001
+44,"[8, 9, 7, 28, 1]",2023-03-16 16:38:08,"Flat 179, Coral Terrace, Sixteenth Street",Goa,Panaji,403001
+87,"[24, 26, 27]",2023-03-02 15:39:39,"Flat 113, Lake Platinum, Twenty-Ninth Street",Goa,Margao,403601
+69,"[20, 24, 12]",2023-03-13 13:34:28,"Flat 460, Moon Sun, Nineteenth Street",West Bengal,Kolkata,700001
+100,"[11, 26, 8, 24]",2023-03-12 00:48:50,"Flat 249, Sun Garden, Tenth Street",Manipur,Bishnupur,795126
+26,"[25, 27, 30, 10]",2023-03-10 14:01:59,"Flat 500, Terrace Terrace, Fifteenth Street",Uttarakhand,Dehradun,248001
+65,"[1, 20, 24, 28]",2023-03-05 01:54:56,"Flat 345, Diamond Summit, Twenty-Sixth Street",Punjab,Ludhiana,141001
+103,"[23, 27, 1, 4]",2023-03-02 04:26:57,"Flat 104, Eternity Silver, Twenty-Second Street",Rajasthan,Jaipur,302001
+24,"[30, 3]",2023-03-09 08:00:15,"Flat 416, Park Red, Fifteenth Street",Tamil Nadu,Coimbatore,641001
+12,"[29, 30, 26, 18, 14, 6]",2023-03-15 10:39:56,"Flat 108, Lake Tower, Sixth Street",Gujarat,Vadodara,390001
+71,"[4, 11, 21, 5, 29, 3]",2023-03-02 07:55:31,"Flat 412, Castle Valley, Nineteenth Street",West Bengal,Howrah,711101
+41,"[7, 15, 2]",2023-03-22 23:13:33,"Flat 411, Park Valley, Eighteenth Street",Maharashtra,Mumbai,400001
+39,"[27, 19, 5, 20, 7, 4]",2023-03-11 05:53:02,"Flat 135, Peak Sapphire, Fourth Street",Odisha,Bhubaneswar,751001
+15,"[11, 13, 27, 10, 30, 7]",2023-03-22 22:12:18,"Flat 143, Platinum Pearl, Nineteenth Street",Mizoram,Lunglei,796701
+3,"[30, 9]",2023-03-17 09:21:12,"Flat 393, Gold Meadow, Fourteenth Street",West Bengal,Asansol,713301
+70,"[18, 29, 30]",2023-03-27 20:16:31,"Flat 181, Silver Pearl, Fourth Street",Maharashtra,Mumbai,400001
+92,[22],2023-03-07 02:03:14,"Flat 352, Valley Grove, Seventh Street",Manipur,Bishnupur,795126
+29,"[18, 30, 8, 23, 25, 21]",2023-03-19 07:51:57,"Flat 484, Peak Valley, Twenty-Third Street",Chhattisgarh,Raipur,492001
+24,"[4, 30]",2023-03-26 19:35:28,"Flat 432, Star Ruby, Sixth Street",Madhya Pradesh,Gwalior,474001
+66,"[12, 18, 4, 9, 14, 19]",2023-03-24 23:24:22,"Flat 152, Park Plaza, Fourth Street",Nagaland,Mokokchung,798601
+44,"[21, 1, 6, 28]",2023-03-05 23:07:03,"Flat 267, Moon Star, Fifth Street",Andhra Pradesh,Visakhapatnam,530001
+11,"[29, 27, 28, 25]",2023-03-13 04:45:42,"Flat 406, Crystal Tower, Eighteenth Street",Meghalaya,Tura,794101
+38,"[9, 7, 5]",2023-03-09 02:38:51,"Flat 238, Lake Sky, Sixteenth Street",Jharkhand,Dhanbad,826001
+86,"[5, 14, 19]",2023-03-28 01:48:31,"Flat 460, Sun Horizon, Twenty-Seventh Street",Himachal Pradesh,Mandi,175001
+13,"[16, 30, 7, 2, 9]",2023-03-15 22:35:56,"Flat 222, Sun Blue, Sixteenth Street",Manipur,Bishnupur,795126
